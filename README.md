@@ -1,2 +1,4 @@
 # Endocrine-Disruptors
-Files and Code
+Name: Ning Hao
+Modification date: June 21, 2024
+Software: jupyter
